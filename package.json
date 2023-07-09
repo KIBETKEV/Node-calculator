@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bazuuu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
